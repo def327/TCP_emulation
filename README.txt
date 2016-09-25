@@ -1,0 +1,1 @@
+My TCP protocol emulatuion, this app before divides png images into packets with fixed small sizes and then sends to client from server  
